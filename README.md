@@ -17,6 +17,10 @@
 <a href = "mailto:lucaseduardochianca.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucaschiancadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+
+ <div align="center"> 
+ <a align="left"> <img src="https://komarev.com/ghpvc/?username=lucaschianca-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lucaschianca-dev" /> </a>
+ </div>
  
  ### Main skills:
 <div style="display: inline_block"><br>
@@ -35,7 +39,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaschianca-dev}/count.svg" /></p> 
 <br>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaschianca-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lucaschianca-dev" /> </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA07A&height=120&section=footer"/>
